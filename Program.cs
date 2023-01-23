@@ -4,4 +4,9 @@ namespace ProGitForProgrammers
     {
 
     }
+
+    public int Add(int left, int right)
+    {
+
+    }
 }
